@@ -11,6 +11,7 @@
 // console.log("quotient", quotient);
 
 const fruits = require("./user-modules/fruit");
+// priority .js File
 
 const fruit1 = new fruits("Apple");
 console.log(fruit1.getName());
