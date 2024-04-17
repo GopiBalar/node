@@ -1,0 +1,15 @@
+.customCaro {
+  height: 90vh;
+  overflow: hidden;
+}
+.customCaro > div {
+  height: 100%;
+}
+.customCaro > div > div {
+  height: 100%;
+}
+.customCaro > div > div > img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
