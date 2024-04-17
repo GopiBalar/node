@@ -11,3 +11,5 @@ const server = http.createServer((req, res) => {
 server.listen(5000, () => {
   console.log("Server is listning on port 5000!");
 });
+
+// http://localhost:5000/default?catagory=shirt&color=red
